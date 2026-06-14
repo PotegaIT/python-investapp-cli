@@ -1,8 +1,8 @@
 # Import functions for ETF database management and portfolio analysis
-from pl.etf_db import initialize_database, add_etf, edit_etf, delete_etf, update_data
-from pl.analyze import analyze_portfolio, show_rsi_for_portfolio, show_correlation_matrix, show_sma_for_portfolio
+from etf_db import initialize_database, add_etf, edit_etf, delete_etf, update_data
+from analyze import analyze_portfolio, show_rsi_for_portfolio, show_correlation_matrix, show_sma_for_portfolio
 import os
-from pl.chart.app import show_chart
+from chart.app import show_chart
 import pandas as pd
 from datetime import datetime
 
