@@ -1,0 +1,9 @@
+Ticker,Name,Target_%,Units,Currency,Last_Price
+CSPX.L,CSPX (S&P 500),0.16,2.0,USD,806.07
+NQSE.DE,NQSE (Nasdaq 100),0.02,50.0,EUR,17.39
+IUSN.DE,IUSN (World Small Cap),0.13,200.0,EUR,8.86
+VHVE.L,VHVE (Developed World),0.2,20.0,USD,148.62
+EIMI.L,EIMI (Emerging Markets),0.1,32.0,USD,54.04
+IMAE.AS,SMEA (MSCI Europe),0.25,20.0,EUR,101.82
+VAGU.L,VAGU (Global Bond Van (Acc)),0.09,55.0,USD,26.85
+GC=F,GOLD (Gold),0.05,0.1,USD,4555.0
